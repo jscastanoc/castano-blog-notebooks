@@ -1,0 +1,6 @@
+*/archive/*
+*.code-workspace
+.venv
+*.DS_Store
+*.archive
+.env
